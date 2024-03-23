@@ -1,8 +1,7 @@
 <a name="readme-top"></a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlexisRodriguezCS/AutoTesterPy/main/images/selenium.png
-" alt="Grid" style="display:block;margin:auto;" height="500">
+  <img src="https://raw.githubusercontent.com/AlexisRodriguezCS/AutoTesterPy/main/images/selenium.png" alt="selenium.png" style="display:block;margin:auto;" height="500">
 </p>
 <h1 align="center">AutoTesterPy</h1>
 
