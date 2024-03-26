@@ -168,7 +168,7 @@ Alexis Rodriguez
 
 - [LinkedIn](https://www.linkedin.com/in/alexisrodriguezcs/)<img align="left" alt="LinkedIn" width="25px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 
-- [alexisrodriguezdev@gmail.com](alexisrodriguezdev@gmail.com)<img align="left" alt="Email" width="25px" style="padding-right:5px;" src="https://img.icons8.com/emoji/48/e-mail.png" />
+- alexisrodriguezdev@gmail.com<img align="left" alt="Email" width="25px" style="padding-right:5px;" src="https://img.icons8.com/emoji/48/e-mail.png" />
 
 Project Link: [https://github.com/AlexisRodriguezCS/AutoTesterPy.git](https://github.com/AlexisRodriguezCS/ValentineProposal.git)
 
